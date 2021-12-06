@@ -3,7 +3,16 @@
 -- @version 1.0
 -- @about
 --   # Toggle grid triplet
+--
 --   Each action toggles the triplet in the grid.
+--
+--   for example, You may want to set up a shortcut as follows...
+--
+--   ```
+--   Ctrl + Shift + 1 -> Grid: Adjust by 1/2
+--   Ctrl + Shift + 2 -> Grid: Adjust by 2
+--   Ctrl + Shift + 3 -> this script
+--   ```
 
 --------------------------------------------------------------------------------------------------
 
