@@ -1,2 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="naari3 Scripts"/>
+<index version="1" name="naari3 Scripts" commit="49d8e078451695b0ea111080f7057f8e4bfd4c95">
+  <category name="Grid">
+    <reapack name="Toggle Grid Triplet.lua" type="script" desc="Toggle grid triplet">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Toggle grid triplet\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Each action toggles the triplet in the grid.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="naari3" time="2021-12-06T15:28:43Z">
+        <source main="main">https://github.com/naari3/ReaScripts/raw/49d8e078451695b0ea111080f7057f8e4bfd4c95/Grid/Toggle%20Grid%20Triplet.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 naari3 Scripts\par}
+}
+]]></description>
+  </metadata>
+</index>
