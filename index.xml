@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="naari3 Scripts" commit="49d8e078451695b0ea111080f7057f8e4bfd4c95">
+<index version="1" name="naari3 Scripts" commit="b77fb605e0c1e01b1c1a0f006cc288d018446dbb">
   <category name="Grid">
     <reapack name="Toggle Grid Triplet.lua" type="script" desc="Toggle grid triplet">
       <metadata>
@@ -9,11 +9,15 @@
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Toggle grid triplet\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 Each action toggles the triplet in the grid.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 for example, You may want to set up a shortcut as follows...\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 Ctrl + Shift + 1 -> Grid: Adjust by 1/2\line
+Ctrl + Shift + 2 -> Grid: Adjust by 2\line
+Ctrl + Shift + 3 -> this script\par}
 }
 ]]></description>
       </metadata>
       <version name="1.0" author="naari3" time="2021-12-06T15:28:43Z">
-        <source main="main">https://github.com/naari3/ReaScripts/raw/49d8e078451695b0ea111080f7057f8e4bfd4c95/Grid/Toggle%20Grid%20Triplet.lua</source>
+        <source main="main">https://github.com/naari3/ReaScripts/raw/b77fb605e0c1e01b1c1a0f006cc288d018446dbb/Grid/Toggle%20Grid%20Triplet.lua</source>
       </version>
     </reapack>
   </category>
